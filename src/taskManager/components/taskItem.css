@@ -1,0 +1,22 @@
+.task-item-container{
+    display:flex;
+    justify-content: space-between;
+    border-radius:1px;
+    border-color:#000000;
+}
+
+.task-item-header{
+    display:flex;
+    justify-content: space-between;
+    background-color:#000000;
+    color:#ffffff;
+    padding: 0.25rem 0.5rem;
+}
+
+.task-item-body{
+    padding: 0.25rem 0.5rem;
+}
+
+.bold{
+    font-weight:700;
+}
